@@ -11,7 +11,7 @@
 
 Real-Time Credit Card Fraud Detection is developed to detect credit card fraud in real time using Kafka as a simulator to simulate data,
 Spark Streaming to stream kafka data and load it in a machine learning engine to predict if it is a fraud or legit transaction on a Streamlit dashboard.<br />
-![img.png](flow.jpg)
+![img.png](https://github.com/aniketsarapAI/credit-card-fraud-detection/blob/98a5a16af7efce514a5c13933360dee72e804f3c/cc-fraud-detection-main/flow.jpg)
 
 
 
